@@ -10,6 +10,15 @@
 ```git
 git clone https://github.com/boringdeveloper/SkDataMining.git
 ```
+```bash
+cd SkDataMining
+```
+
+Update line number 7 of app.js with your shoplink
+
+```javascript
+const shopLink = "https://siomaiking.ph/skshop/PPS3092989"
+```
 
 ```node
 npm install
